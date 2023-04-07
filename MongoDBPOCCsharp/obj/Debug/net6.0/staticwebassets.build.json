@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5je3+2mTLQnrHqyRCLDFARqWCdNRWPDRF/118PSzwiQ=",
+  "Source": "MongoDBPOCCsharp",
+  "BasePath": "_content/MongoDBPOCCsharp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
